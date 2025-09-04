@@ -1,5 +1,13 @@
 # Zustand Case Study
 
+📚 Skrevet som en del av frontend-utdanningen ved Noroff (2025).  
+🎯 Formålet med denne oppgaven var å utforske moderne state management i React, med fokus på biblioteket **Zustand**, og reflektere over egne erfaringer og læringspunkter.
+
+Denne teksten kombinerer teori, kodeeksempler og personlig refleksjon, og viser hvordan Zustand kan brukes som et praktisk og effektivt alternativ til verktøy som Redux og Context API.
+
+
+# Zustand Case Study
+
 ## Introduction
 
 In more complex applications, managing state through props quickly becomes inefficient and hard to maintain. Zustand is a small, fast and scalable state-management library that allows you to create a centralized store for application state and access it from any component, without the need for prop drilling or complicated boilerplate.
@@ -125,3 +133,11 @@ Learning Zustand gave me confidence, and this assignment reminded me how much I 
 - [Zustand GitHub](https://github.com/pmndrs/zustand)
 - [React Docs – Context](https://react.dev/learn/passing-data-deeply-with-context)
 - [Managing React state with Zustand – LogRocket](https://blog.logrocket.com/managing-react-state-zustand/#zustand-better-redux)
+
+---
+
+✨ Denne case study er skrevet som en del av frontend-utdanningen min ved Noroff.  
+💡 Jeg publiserer den her på GitHub både som dokumentasjon av læring og som eksempel på hvordan jeg jobber faglig og reflekterende.  
+
+For spørsmål eller samarbeid → [LinkedIn](https://www.linkedin.com/in/patrick-r%C3%B8the-850048351/)
+
